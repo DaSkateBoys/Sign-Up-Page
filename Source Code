@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <body>
+   <!--I hope this helps! -->
+  <h4>Skate's Help</h4>
+  <input placeholder="Email">
+  <br>
+  <input placeholder="Password" type="password">
+  <br>
+    <input placeholder="Confirm Password" type="password">
+   <br>
+  <input type="Checkbox">
+  <em>Send me help pdf's</em>
+  <br>
+  <button>Sign up</button>
+ </body>
+</html>
